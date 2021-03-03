@@ -1,0 +1,13 @@
+C:\Users\flavia.martins\source\repos\ConsoleHellowWorld\ConsoleHellowWorld\bin\Debug\netcoreapp3.1\ConsoleHellowWorld.exe
+C:\Users\flavia.martins\source\repos\ConsoleHellowWorld\ConsoleHellowWorld\bin\Debug\netcoreapp3.1\ConsoleHellowWorld.deps.json
+C:\Users\flavia.martins\source\repos\ConsoleHellowWorld\ConsoleHellowWorld\bin\Debug\netcoreapp3.1\ConsoleHellowWorld.runtimeconfig.json
+C:\Users\flavia.martins\source\repos\ConsoleHellowWorld\ConsoleHellowWorld\bin\Debug\netcoreapp3.1\ConsoleHellowWorld.runtimeconfig.dev.json
+C:\Users\flavia.martins\source\repos\ConsoleHellowWorld\ConsoleHellowWorld\bin\Debug\netcoreapp3.1\ConsoleHellowWorld.dll
+C:\Users\flavia.martins\source\repos\ConsoleHellowWorld\ConsoleHellowWorld\bin\Debug\netcoreapp3.1\ConsoleHellowWorld.pdb
+C:\Users\flavia.martins\source\repos\ConsoleHellowWorld\ConsoleHellowWorld\obj\Debug\netcoreapp3.1\ConsoleHellowWorld.csprojAssemblyReference.cache
+C:\Users\flavia.martins\source\repos\ConsoleHellowWorld\ConsoleHellowWorld\obj\Debug\netcoreapp3.1\ConsoleHellowWorld.AssemblyInfoInputs.cache
+C:\Users\flavia.martins\source\repos\ConsoleHellowWorld\ConsoleHellowWorld\obj\Debug\netcoreapp3.1\ConsoleHellowWorld.AssemblyInfo.cs
+C:\Users\flavia.martins\source\repos\ConsoleHellowWorld\ConsoleHellowWorld\obj\Debug\netcoreapp3.1\ConsoleHellowWorld.csproj.CoreCompileInputs.cache
+C:\Users\flavia.martins\source\repos\ConsoleHellowWorld\ConsoleHellowWorld\obj\Debug\netcoreapp3.1\ConsoleHellowWorld.dll
+C:\Users\flavia.martins\source\repos\ConsoleHellowWorld\ConsoleHellowWorld\obj\Debug\netcoreapp3.1\ConsoleHellowWorld.pdb
+C:\Users\flavia.martins\source\repos\ConsoleHellowWorld\ConsoleHellowWorld\obj\Debug\netcoreapp3.1\ConsoleHellowWorld.genruntimeconfig.cache
